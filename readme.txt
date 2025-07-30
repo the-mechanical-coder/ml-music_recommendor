@@ -1,3 +1,6 @@
+This is a small ML project that uses scikit-learn Decision Tree Classifier Algo to tune the model.
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
 Steps to follow:
 I. Create a model ---- run model_generator.py:
     1. Import Data
